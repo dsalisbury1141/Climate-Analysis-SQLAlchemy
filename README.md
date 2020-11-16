@@ -1,5 +1,6 @@
 # SQLAlchemy-Challenge
+![imageAlt](https://github.com/dsalisbury1141/SQLAlchemy-Challenge/blob/master/Images/Hawaii%20Prcp%2012Months.png)!
+![imageAlt](https://github.com/dsalisbury1141/SQLAlchemy-Challenge/blob/master/Images/Temps%20Bonus.png)!
+![imageAlt](https://github.com/dsalisbury1141/SQLAlchemy-Challenge/blob/master/Images/Temps%20Most%20Active%20Station%20USC00519281.png)!
 
-This challenge was fun and somewhat challenging, especially using the date time delta and the creating a Flask site to display the data.
 
-I did attempt the Bonus and was able to provide some of the requirements
