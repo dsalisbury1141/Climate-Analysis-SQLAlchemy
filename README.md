@@ -1,7 +1,5 @@
-# SQLAlchemy-Challenge
-
-## Exploratory Climate Analysis
-The following shows 12 months of precipitation data from 2016 in Hawaii
+# Exploratory Climate Analysis using # SQLAlchemy with a Flask app
+## The following shows 12 months of precipitation data from 2016 in Hawaii
 ![imageAlt](https://github.com/dsalisbury1141/SQLAlchemy-Challenge/blob/master/Images/Hawaii%20Prcp%2012Months.png)!
 
 ## Here is the station with the highest number of temperature observations
