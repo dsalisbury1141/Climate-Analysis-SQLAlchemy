@@ -11,6 +11,7 @@
 ![imageAlt](https://github.com/dsalisbury1141/SQLAlchemy-Challenge/blob/master/Images/Temps%20Most%20Active%20Station%20USC00519281.png)!
 
 
+
 How to run my code:
-	1. Download my repository 
-  2. Open Jupyter and run code to see visuals
+1. Download my repository 
+2. Open Jupyter and run code to see visuals
